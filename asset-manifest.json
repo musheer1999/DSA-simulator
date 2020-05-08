@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DSA-simulator/static/css/main.7bc7376d.chunk.css",
+    "main.js": "/DSA-simulator/static/js/main.78b878c6.chunk.js",
+    "main.js.map": "/DSA-simulator/static/js/main.78b878c6.chunk.js.map",
+    "runtime-main.js": "/DSA-simulator/static/js/runtime-main.0fc00d0e.js",
+    "runtime-main.js.map": "/DSA-simulator/static/js/runtime-main.0fc00d0e.js.map",
+    "static/js/2.7fb3c838.chunk.js": "/DSA-simulator/static/js/2.7fb3c838.chunk.js",
+    "static/js/2.7fb3c838.chunk.js.map": "/DSA-simulator/static/js/2.7fb3c838.chunk.js.map",
+    "index.html": "/DSA-simulator/index.html",
+    "precache-manifest.ad581add60c1fce5bebe8d21fad44072.js": "/DSA-simulator/precache-manifest.ad581add60c1fce5bebe8d21fad44072.js",
+    "service-worker.js": "/DSA-simulator/service-worker.js",
+    "static/css/main.7bc7376d.chunk.css.map": "/DSA-simulator/static/css/main.7bc7376d.chunk.css.map",
+    "static/js/2.7fb3c838.chunk.js.LICENSE.txt": "/DSA-simulator/static/js/2.7fb3c838.chunk.js.LICENSE.txt",
+    "static/media/photo.jpg": "/DSA-simulator/static/media/photo.79cc9943.jpg",
+    "static/media/ss.JPG": "/DSA-simulator/static/media/ss.9819e96c.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fc00d0e.js",
+    "static/js/2.7fb3c838.chunk.js",
+    "static/css/main.7bc7376d.chunk.css",
+    "static/js/main.78b878c6.chunk.js"
+  ]
+}
