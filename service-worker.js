@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DSA-simulator/precache-manifest.067d8c658fcf4b4aac8a5f488a21a603.js"
+  "/DSA-simulator/precache-manifest.199fdefc9d921ef538b7e07a9715ce36.js"
 );
 
 self.addEventListener('message', (event) => {
