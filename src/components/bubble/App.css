@@ -1,0 +1,22 @@
+
+svg{
+
+  margin: 50px 0px 50px 0px;
+ 
+  background-color:rgb(209, 230, 236);
+  padding-bottom:5px ;
+  overflow:visible;
+ 
+ height:350px;
+ width:1300px
+  
+}
+
+svg rect:hover{
+
+  fill:red;
+  transition: 1s all;
+  stroke:blue;
+  stroke-width: 2;
+  zoom: 1;
+}
